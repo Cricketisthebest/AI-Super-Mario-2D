@@ -33,5 +33,5 @@ function gotPoses(results) {
 }
 
 function draw() {
-	game()
+	game();
 }
